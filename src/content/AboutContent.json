@@ -1,0 +1,16 @@
+{
+  "title": "Empowering Women in Tech Join Us!",
+  "text": "Empowering women in tech. Collaborate on projects, find teammates, access mentorship. User-friendly platform fostering innovation. Join us to shape the future!",
+  "section": [
+    {
+      "title": "Team Finder",
+      "content": "Connect with collaborators who share your vision and passion for innovation.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Mentorship Hub",
+      "content": "Gain insights and guidance from industry experts to fuel your growth.",
+      "icon": "notes.svg"
+    }
+  ]
+}
